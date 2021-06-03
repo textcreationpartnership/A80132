@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A lamentation taken up for the churchs [sic] of the Anabaptists by John Collens ; with a call, and warning for them to come out of the self separation, into the footsteps of the flock, and to turn from the darkness to the true light.</title>
+            <author>Collens, John, d. 1682.</author>
+         </titleStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80132</idno><idno type="EEBO-CITATION">47682863</idno>
+  <idno type="VID">172819</idno>
+  <idno type="EEBO-PROQUEST">2240900994</idno>
+  
+            <idno type="STC">Wing C5232</idno>
+            <idno type="STC">ESTC R171436</idno>
+            <idno type="OCLC">47682863</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A80132)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172819)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2651:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A lamentation taken up for the churchs [sic] of the Anabaptists by John Collens ; with a call, and warning for them to come out of the self separation, into the footsteps of the flock, and to turn from the darkness to the true light.</title>
+                  <author>Collens, John, d. 1682.</author>
+               </titleStmt>
+               <extent>[6] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1685?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Date of publication conjectured by cataloger from internal evidence.</note>
+                  <note>Pages numbered 25-30.</note>
+                  <note>Initialed at end: I.C.</note>
+                  <note>Reproduction of original in: Friends' Library (London, England).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Collier, Thomas, fl. 1691. --  Compendious discourse about some of the greatest matters of Christian faith propounded and explained between a minister and an enquiring Christian.</term>
+               <term type="topical_term">Anabaptists --  Controversial literature.</term>
+               <term type="topical_term">Society of Friends --  Apologetic works.</term>
+               <term type="topical_term">Dissenters, Religious --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-06 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Maria Cecilia Caride </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Maria Cecilia Caride</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <gap reason="missing" extent="20+ pages">
+               <desc>〈20+ pages missing〉</desc>
+            </gap>
+            <p>of truth, that you may prove all things, and hold fa<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s;t that which is good.</p>
+            <closer>
+               <dateline>
+                  <hi>Ivelchecter <date>the 12 day of the 1 Moneth, 1658.</date>
+                  </hi>
+               </dateline>
+               <signed> T.S.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="25" facs="tcp:172819:1"/>
+            <head>
+               <hi>A</hi> Lamentation <hi>taken up for the Churchs of the Anabap<g ref="char:EOLhyphen"/>tists by</hi> John Collens with a call, and warning <hi>for them to come out of the</hi> self separation, <hi>into the foot<g ref="char:EOLhyphen"/>steps of the flock, and to turn from the</hi> darkness <hi>to the</hi> true light.</head>
+            <p>FRiends, you who call your selves Churches of Christ Jesus, who have separated your selves not having the spirit to lead, and separate you from your uncleannes, and so are in the self separation, out of the power of God, which power maketh man willing to deny himself and take up the daily cross which crucifieth him to the world, and the world to him, where sin is nailed, and the power of God received, to resist the Devil, which leads them captive at his will, who live in sin and transgression, which is the work of the Devil, and all them that are led by him have not received the faith, which giveth victory over him, nor have not believed the Gospel, which is <hi>the power of God to salvation,</hi> nor received Christ Jesus, <hi>to save them from their sins</hi> which all they that do believe, do receive even <hi>power to become the sons of God, and joynt heirs with Christ.</hi>
+            </p>
+            <p>Friends, in the Name and fear of the Lord God Almighty, do I warn you, and in bowels of love and tenderness do in Christs stead beseech you, that in the light of Christ Jesus made manifest, which never changeth, but bears true testimony for God, try and consider, whether whilst you <hi>live in sin, you are not servants to sin, and doth the work of the Devil: and the wages of sin is death, and he that soweth to the flesh must of the flesh reap corruption, and he that soweth to the spirit, shall of the spirit reap life everlasting, you cannot serve two masters, neither can you serve God and Mammon, verily verily except you be born again you cannot inherit the Kingdom of God, and he that is born of God can<g ref="char:EOLhyphen"/>not sin, for his seed remaineth in him, he that sinneth is of the De<g ref="char:EOLhyphen"/>vil;</hi> now friends in the cooleness and moderation consider,
+<pb n="26" facs="tcp:172819:2"/> whether you know this birth brought forth in you which can<g ref="char:EOLhyphen"/>not commit sin, the seed immortal begotten of God, which enters the Kingdom of God; and try your selves how you stand in the presence of the Lord; in singleness of heart, and deceive not your selves with words; <hi>for the gospel is not in word but in power;</hi> a profession of God and Christ will not save you whilst you deny the power of God, by which sin is crucified, <hi>for whosoever committeth sin is under the Law:</hi> and he was made manifest to take away our sins, truly a lamentation is taken up for you, <hi>how are you fallen; how are your garments defiled;</hi> how are you degenerated and fallen back to the love of the world with its customes, fashioned and traditions, with the lusts and vanities thereof, renewing again those idolatries which for<g ref="char:EOLhyphen"/>merly you have destroyed, how is your leader and great Apo<g ref="char:EOLhyphen"/>stle amongst you, <hi>Thomas Collier,</hi> become an enemy of righte<g ref="char:EOLhyphen"/>ousness <hi>resisting the holy Ghost: and perverting the right way of God,</hi> preaching up sin and imperfection for term of life, going about with all the strength he can muster up to establish the kingdom of the Devil in the Church of Christ, raking up the failings of the Saints recorded, to confirm the reign of the man of sin forever, condemning the generation of the just, bringing in new destinctions to make the body of Christ an imperfect sinful body, how doth he blaspheme God &amp; his tabernacle, and them that dwell in Heaven, <hi>who shallay any thing to the charge of Gods elect,</hi> how doth he slander, reproach and falsly accuse the innocent and harmless Lambs of Christ Jesus, yea the Lord is witness between him &amp; us, <hi>and we call Heaven and earth to wit<g ref="char:EOLhyphen"/>ness against him this day,</hi> that these things <note n="*" place="margin">In his book called <hi>a dia<g ref="char:EOLhyphen"/>logue between a minister and a Christian.</hi>
+               </note> asserted by him as our principles never entered into our hearts, our consciences bearing us witness in the fight of God, though he like a whore hath wiped his mouth at a looking glass, in which the children of light see much more of his deformity and wickedness; ha<g ref="char:EOLhyphen"/>ving perverted the words in several books as he doth <hi>the Scriptures to his own destruction,</hi> and out of his mischievous heart, hath wrested their honest intents, and taken pieces of sentences and raised it up a lie (out of his own wicked heart) upon them, and then overturned his own work; but that
+<pb n="27" facs="tcp:172819:2"/> which is written in those books remaineth untouched by him, his own lies being but wiped from them, as any who are without prejudice may easily see, reading over the things contained in those books who will sufficiently clear them<g ref="char:EOLhyphen"/>selves, but the Devil <hi>who was a lyer from the beginning, is now cast out of heaven into the earth, and he hath great wrath with the woman, and the remnant of her seed who keep the word of God and testimony of Jesus; but the arm of the Lord is stretched out over us, and in his fear are we preserved from the rage of our enemies,</hi> yea <hi>a pillar of fire to give us light</hi> goeth before us, which is a cloud and darkness to our <hi>Egyptian</hi> like enemies that follow after us:</p>
+            <p>Truly my soul pitties you, and my bowels hath even yerned on you, for many dayes; oh that you had an ear that you could hear, and an heart that you could understand: you have played the harlot and are departed from God, and you have joyned your selves to another besides the Lord, <hi>you have run a whoreing after your own Inventions, and you have worshipped the works of your hands,</hi> and your Pastours hath deceived you, for the Lord doth not smile upon you, <hi>but his jealousy burneth a<g ref="char:EOLhyphen"/>gainst you as a fire,</hi> yet return and he may have mercy, and whilst the Spirit of the Lord strives, answer with obedience; for he hath said <hi>his spirit shall not alwayes strive with man,</hi> and while you have the light, believe in the light, and bring all your deeds unto the light that they may be proved and tryed, whether they be wrought in God.</p>
+            <p>And now friends in the fear of the Lord deal honestly with your own selves, and let us reason together, and in the light of Christ Jesus weigh and try all things, and see with the light (which will deal plainly with you) whether you are indeed such as you profess your selves; and whether the ordinances you so much talk of be indeed the ordinances of Christ, or but shadowes, whether water baptism or <hi>the baptism of the spirit be the baptism of Christ,</hi> since <hi>there is but one baptism,</hi> whether you have <hi>heard the voice of Christ or seen his shape at any time,</hi> that hath commanded you in the particular to take up those ordi<g ref="char:EOLhyphen"/>nances, or a perswasion in your own minds from the letter when as the letter killeth, or whether such a thing as water be com<g ref="char:EOLhyphen"/>manded in the letter, or your own Imaginations from the letter.</p>
+            <pb n="28" facs="tcp:172819:3"/>
+            <p> Whether the bread you break be the body of Christ, or the cup you drink be his blood, since it doth not cleanse you from sin? whether the prayers you make be in the spirit, and you can say in the presence of the Lord, you lift up holy hands; have them that teach among you the spirit of infalibility, and revelation of the mind of Christ, or they speak a devination of their own brain, and hath not received the word of the Lord from his mouth, but boast in anothers line, and what themselves have invented, and whether this be the spirit of God, or the spirit of errour which is not of God; and whether the Covenant, and ordinances which doth not make the commers thereunto perfect, be not that which is to be done away as weake and unprofitable? whether your faith and preaching be not also vain, forasmuch as you believe you shall never overcome sin while you live, and your faith doth not pu<g ref="char:EOLhyphen"/>rifie your hearts, and since that as a tree falleth so it lyeth, and as death leaves you judgment finds you, and that there is no repentance in the grave whether you must goe, and that nothing that is unclean, or that worketh abomination, or that maketh a lye shall ever enter the City of our God.</p>
+            <p>Therefore once more in the name of the Lord I warn you, come out from among them, all ye that are tender-hearted, and that desires salvation to your soules <hi>come out from among them, and be ye seperate, and touch no unclean thing and I will receive you saith the Lord,</hi> for whosoever cannot witnesse Christ Jesus a Sa<g ref="char:EOLhyphen"/>viour from sin in the particular, shall never witness him a Savi<g ref="char:EOLhyphen"/>our from condemnation, &amp; refuse not to walk with a pure per<g ref="char:EOLhyphen"/>fect people, as <hi>T. C.</hi> saith we be, and follow us no farther then as we follow Christ, for we have the mind of Christ; therfore own the light which convinceth you of sin, for as living witnesses for the name of our God do we stand, that the light which con<g ref="char:EOLhyphen"/>vinceth of sin is the true light that leadeth out of sin, all them that walks in the light, as he is in the light, they wit<g ref="char:EOLhyphen"/>ness the blood of Christ to cleanse from all sin, which joyns us to Christ as members of his body, whereby we receive the spirit of the Father, to lead and guide us to do his will, which is our sanctification, which spirit revealeth the Son, Christ Jesus the light, who worketh all our works in us, and for us,
+<pb n="29" facs="tcp:172819:3"/> whose work is perfect, for we are no more our own, but bought with a price; so are we baptized by one spirit into one body, and made conformable to his death, who hath rai<g ref="char:EOLhyphen"/>sed us to life, glory be to his name for ever: here is the Church in God the Father, where the true Church, Ordinances and fellowship is known, and the true worship in spirit and in truth (in which onely the father is worshipped) lived in; yea, and we bear testimony according to the Scriptures, that there is no other name given under heaven by which men can be saved, but by Christ Jesus, who is revealed in us, our hope of glory; this is he that hath told us all that ever we have done: is not this the very Christ, who was in the beginning with God, whose day <hi>Ahraham</hi> saw, whom the professing Jews (when made manifest) who had the Scriptures of the Pro<g ref="char:EOLhyphen"/>phets (who prophesied of him) read every Sabbath day, yet their voices they knew not, but crucified the Lord of Life, and put him to open shame, as it is at this day; <hi>Him hath God raised, and given him a name above every name, that at the name of Jesus every knee should bow;</hi> this is he whom we bear testimony to, <hi>Christ Jesus the same yesterday, to day and for ever;</hi> therefore take heed least▪ ye be found fighters against God, and no longer believe lyes, but cast out the lyar from amongst you, for the lyar is of the Devil, and whilst you join with him, you are one with him, and must partake of his plagues. Therefore hear and fear before the Lord, for the <hi>Lord will rain snares upon the wicked and pour out shame and contempt upon his adversaries;</hi> and go on speedily with your promise which you have promised the Lord in your Epistle, That <hi>you will cast out sin or sinners out of the house of God,</hi> so may the Lord have a Church free from sin upon the earth, for he is come whose right it is, and the Kingdom and the Government shall be his, who will rule the Heathen with a rod of iron, and break them in pieces like a Potters vessel. And now have I eased my spirit, and cleared my conscience towards you, whether you will hear or forbear, and the Lord will be clear of you, when he cometh in ten thousands of his Saints to execute the judgements written; <hi>this honour hath all the saints.</hi>
+            </p>
+            <pb n="30" facs="tcp:172819:4"/>
+            <p> From him who was once owned as a Brother amongst you, and since owned a brother by you, whilst walking in the va<g ref="char:EOLhyphen"/>nity of my mind running to the same excess of riot with you; but since the Lord in mercy visited me, and called me out of darkness, into his marvellous light, I have been hated and despightfully used by some of you, who am known to many of you by the name of,</p>
+            <closer>
+               <signed>I. C.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
